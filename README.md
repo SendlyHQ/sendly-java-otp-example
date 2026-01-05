@@ -1,3 +1,8 @@
+<p align="center">
+  <img src=".github/header.svg" alt="Sendly Java OTP Example" />
+</p>
+
+
 # Sendly Java OTP Verification Example
 
 A complete Spring Boot application demonstrating phone number verification using Sendly's OTP service.
@@ -15,7 +20,7 @@ A complete Spring Boot application demonstrating phone number verification using
 
 - Java 17 or higher
 - Maven 3.6 or higher
-- Sendly API key ([Get one here](https://sendly.so))
+- Sendly API key ([Get one here](https://sendly.live))
 
 ## Setup
 
@@ -112,7 +117,7 @@ src/
 
 ## Learn More
 
-- [Sendly Documentation](https://docs.sendly.so)
+- [Sendly Documentation](https://docs.sendly.live)
 - [Sendly Java SDK](https://github.com/sendly-so/sendly-java)
 - [Spring Boot Documentation](https://spring.io/projects/spring-boot)
 
