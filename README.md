@@ -117,8 +117,8 @@ src/
 
 ## Learn More
 
-- [Sendly Documentation](https://docs.sendly.live)
-- [Sendly Java SDK](https://github.com/sendly-so/sendly-java)
+- [Sendly Documentation](https://sendly.live/docs)
+- [Sendly Java SDK](https://github.com/SendlyHQ/sendly-java)
 - [Spring Boot Documentation](https://spring.io/projects/spring-boot)
 
 ## License
